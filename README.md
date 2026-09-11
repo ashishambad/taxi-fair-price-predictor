@@ -1,5 +1,5 @@
 # 🚕 Taxi Trip Pricing Prediction
-project link = 
+project link = https://taxi-fair-price-predictor-mqgyh8w9acszwtr6mb58tx.streamlit.app/
 
 A Machine Learning project that predicts **taxi trip prices** based on trip distance, duration, passenger count, fare rates, time of day, day of week, traffic conditions, and weather conditions.
 
